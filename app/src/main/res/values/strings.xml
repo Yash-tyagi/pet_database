@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">sqliteDatabase</string>
+    <string name="new_pet">Add a new pet</string>
+    <string name="category_overview">Overview</string>
+    <string name="category_gender">Gender</string>
+    <string name="category_measurement">Measurement</string>
+    <string name="hint_pet_name">Enter Pet name</string>
+    <string name="hint_pet_breed">Enter Breed</string>
+    <string name="hint_pet_weight">weight</string>
+    <string name="unit_pet_weight">Kg</string>
+    <string name="editor_activity_title_new_pet">New Pets</string>
+    <string name="action_save">save</string>
+    <string name="action_delete">delete</string>
+    <string name="action_insert_dummy_data">insert dummy data</string>
+    <string name="action_delete_all_entries">delete all data</string>
+
+    <string name="gender_unknown">unknown</string>
+    <string name="gender_male">male</string>
+    <string name="gender_female">female</string>
+
+    <string name="editor_insert_pet_failed">Failed</string>
+    <string name="editor_insert_pet_successful">New Pet inserted!</string>
+
+    <string name="empty_view_title_text">It\'s a bit lonely here...</string>
+    <string name="empty_view_subtitle_text">Get started by adding a pet</string>
+    <string name="add_a_pet">Add A Pet</string>
+    <string name="edit_a_pet">Edit Pet</string>
+
+    <string name="editor_update_pet_failed">update failed</string>
+    <string name="editor_update_pet_successful">successfully updated</string>
+</resources>
